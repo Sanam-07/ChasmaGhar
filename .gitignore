@@ -1,0 +1,4 @@
+./backend/emotion_detect/data/
+./backend/emotion_detect/archive/
+./backend/emotion_detect/test/
+./backend/emotion_detect/train/
